@@ -1,0 +1,34 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "Learn react",
+  "keywords": [
+    "react",
+    "learn",
+    "react"
+  ],
+  "homepage": "https://github.com/ApoorvaNamp/Learn_React#readme",
+  "bugs": {
+    "url": "https://github.com/ApoorvaNamp/Learn_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApoorvaNamp/Learn_React.git"
+  },
+  "license": "ISC",
+  "author": "Apoorva Nampalliwar",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "browserslist": [
+    "last 10 version"]
+}
